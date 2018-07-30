@@ -1,5 +1,6 @@
 # Project5
 CS2308 Project 5
+Project 4 for CS2308 with Hwang at Texas State University
 Programming Project 5 : Class specification (.h). Class implementation (.cpp).
 
 References: Program 13-3 with header file for class declaration and member function definition for class implementation. You may need to refer to program 13-2. Please also ref to Prog 13-14 and header file in section 13.10 for array of class objects.
